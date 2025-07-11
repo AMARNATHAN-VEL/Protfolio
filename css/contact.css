@@ -1,0 +1,55 @@
+/* Contact Part */
+.contact {
+  background-color: var(--BG-COLOR);
+  color: var(--TEXT-COLOR2);
+  padding: 10vw;
+}
+.contact__sec {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+.contact__desc {
+  width: 65vw;
+  text-align: center;
+}
+
+/* Form */
+form {
+  background-color: var(--TEXT-COLOR);
+  color: var(--BG-COLOR);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  border-radius: 20px;
+}
+.form-items {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  row-gap: 15px;
+  column-gap: 10px;
+}
+
+/* Contact info */
+.contact-info p {
+  color: var(--TEXT-COLOR2);
+  padding: 10px 0;
+}
+
+/* Social links */
+.social-links {
+  color: var(--TEXT-COLOR);
+  padding: 20px;
+  font-size: 1.2rem;
+  font-weight: 900;
+}
+.social-links a:hover {
+  color: var(--TEXT-COLOR2);
+  text-shadow: 0 0 20px var(--BG-COLOR);
+  font-size: 1.7rem;
+}
