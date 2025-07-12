@@ -26,10 +26,10 @@ main {
   color: var(--TEXT-COLOR);
   text-shadow: 0 0 5px var(--BG-COLOR);
   font-size: 4vmin;
-  width: 23ch;
+  width: 25ch;
   text-wrap: onwrap;
   overflow: hidden;
-  animation: typing 3s steps(22) infinite alternate-reverse;
+  animation: typing 3s steps(25) infinite alternate-reverse;
 }
 @keyframes typing {
   from {
