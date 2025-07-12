@@ -161,6 +161,10 @@ html {
   .hero__buttons {
     justify-content: center;
   }
+  /* frontend name animation */
+  .hero__sub-title {
+    margin: auto;
+  }
   .hero__right {
     width: 60%;
   }
