@@ -21,9 +21,22 @@ main {
 .hero__left h1 {
   font-size: 6vmin;
 }
-.hero__left h3 {
+/* frontend name animation */
+.hero__sub-title {
+  color: var(--TEXT-COLOR);
+  text-shadow: 0 0 5px var(--BG-COLOR);
   font-size: 4vmin;
+  width: 24ch;
+  text-wrap: onwrap;
+  overflow: hidden;
+  animation: typing 2s steps(24) infinite alternate-reverse;
 }
+@keyframes typing{
+  from{
+    width: 0ch;
+  }
+}
+/* ----- */
 .hero__left p {
   text-align: justify;
   padding: 25px 0;
