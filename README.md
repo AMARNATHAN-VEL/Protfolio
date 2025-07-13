@@ -1,6 +1,6 @@
 # 👤 Personal Portfolio Website
 
-A multi-page personal portfolio website to showcase skills, resume, and projects.
+A personal portfolio website to showcase skills, resume, and projects.
 
 ## 🔧 Features
 - Clean and responsive design
