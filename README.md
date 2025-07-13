@@ -15,7 +15,7 @@ A multi-page personal portfolio website to showcase skills, resume, and projects
 - GitHub Pages
 
 ## 🌐 Live Demo
-[View Portfolio](https://amarnathanv.github.io/portfolio)
+[View Portfolio](https://amarnathan-vel.github.io/Protfolio/)
 
 ## 📁 GitHub Repo
-[View Code](https://github.com/amarnathanv/portfolio)
+[View Code](https://github.com/AMARNATHAN-VEL/Protfolio)
